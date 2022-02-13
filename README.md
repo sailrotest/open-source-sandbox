@@ -1,4 +1,4 @@
-# [Project Name]
+# [Sandbox]
 
 [![Build status on Windows](../../workflows/CI-Windows/badge.svg)](../../actions?query=workflow%3ACI-Windows)
 [![Build status on macOS](../../workflows/CI-macOS/badge.svg)](../../actions?query=workflow%3ACI-macOS)
